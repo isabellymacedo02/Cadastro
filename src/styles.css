@@ -36,8 +36,8 @@ body {
 .form_grupo {
     width: 100%;
     margin: 0 auto;
-    margin-bottom: 20px;
-    position: relative;
+    margin-bottom: 35px;
+    position:relative;
 }
 
 .form_grupo .legenda { 
@@ -184,7 +184,7 @@ body {
 
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
-    padding: 8px 15px;
+    padding: 8px 10px;
     border-radius: 4px;
     border: 1px #010000 solid;
     background: #fdfdfd;
